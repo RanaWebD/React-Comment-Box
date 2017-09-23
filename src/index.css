@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#root{
+  display: flex;
+  justify-content: center;
+}
+.comment-box{
+  background-color: #9ecbd2;
+  border-radius: 5px;
+  padding: 20px;
+  position: relative;
+  width:300px;
+}
+label{
+  display: flex;
+  justify-content: center;
+}
+.input-field{
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  
+  
+}
+
+
